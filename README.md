@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -521,15 +520,15 @@
           <div class="gallery-caption">Postura defensiva característica</div>
         </div>
         <div class="gallery-item">
-          <img src="https://i.natgeofe.com/k/4a4a9a9e-5e5e-4f5f-9f9f-5f5f5f5f5f5f/banana-spider_16x9.jpg" alt="Primer plano de una araña bananera">
+          <img src="https://farallonesdelcitara.bioexploradores.com/wp-content/uploads/2024/02/IMG_8560-2-2-1201x901.jpg" alt="Primer plano de una araña bananera">
           <div class="gallery-caption">Detalle de sus quelíceros</div>
         </div>
         <div class="gallery-item">
-          <img src="https://www.sciencenews.org/wp-content/uploads/2020/10/100720_ec_banana-spider_feat-1028x579.jpg" alt="Araña bananera mostrando sus colmillos">
+          <img src="https://www.anipedia.net/imagenes/arana-bananera.jpg" alt="Araña bananera mostrando sus colmillos">
           <div class="gallery-caption">Colmillos rojizos con veneno</div>
         </div>
         <div class="gallery-item">
-          <img src="https://www.reptilis.net/wp-content/uploads/2021/04/Phoneutria-nigriventer-1024x683.jpg" alt="Araña bananera en su hábitat natural">
+          <img src="https://www.udea.edu.co/wps/wcm/connect/udea/5a79d44d-2285-43b1-b894-d046e941596e/1/Phoneutria+boliviensis.+Cortes%C3%ADa+Andreas+Kay.+%281%29.jpg?MOD=AJPERES" alt="Araña bananera en su hábitat natural">
           <div class="gallery-caption">En su hábitat natural</div>
         </div>
       </div>
