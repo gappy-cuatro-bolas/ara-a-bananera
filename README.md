@@ -516,7 +516,7 @@
       <h2 class="section-title">Galería</h2>
       <div class="gallery">
         <div class="gallery-item">
-          <img src="https://www.thoughtco.com/thmb/0VJg8wZ8QZJQZJQZJQZJQZJQZJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/banana-spider-5c5a8a1b46e0fb0001f5e5f5.jpg" alt="Araña bananera en posición defensiva">
+          <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/64675424/original.jpeg" alt="Araña bananera en posición defensiva">
           <div class="gallery-caption">Postura defensiva característica</div>
         </div>
         <div class="gallery-item">
